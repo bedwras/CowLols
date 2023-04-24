@@ -1,4 +1,4 @@
-[![CowLols's GitHub stats](https://github-readme-stats.vercel.app/api?username=cowlols)](https://github.com/cowlols/github-readme-stats)
+[![GitHub Stats](http://github-readme-streak-stats.herokuapp.com?user=CowLols&theme=dark)](https://git.io/streak-stats)me-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cowlols"/>
  
